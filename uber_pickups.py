@@ -1,5 +1,3 @@
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
 """Uber Data Analysis"""
 
 import pandas as pd
